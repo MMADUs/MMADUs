@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MMADUs
 - I’m interested in web development
-- I’m currently learning Laravel & JavaScript entirely 
 - You can reach me on discord, godtax.
 
 <!---
