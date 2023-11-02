@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MMADUs
-- I’m interested in web development
+- I’m interested in software development
 - You can reach me on discord, godtax.
 
 <!---
