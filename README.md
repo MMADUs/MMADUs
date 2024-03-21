@@ -2,7 +2,7 @@
 <h3 align="center">Im studying on my Computer Science major, and im a Junior Software Engineer</h3>
 
 <p align="center">Language im currently in!</p>
-<div align="center"></div>[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart)](https://skillicons.dev)</div>
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart)](https://skillicons.dev)</div>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch)](https://skillicons.dev)
 
