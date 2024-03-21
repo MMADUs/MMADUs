@@ -13,7 +13,7 @@
 <p align="center">My Software Dev Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nestjs,flutter,nextjs,react,vite,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,nextjs,react,vite,tailwind"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <p align="center">Current Devops Tech</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,aws,gcp,docker"/>
+    <img src="https://skillicons.dev/icons?i=windows,linux,git,github,aws,gcp,docker"/>
   </a>
 </p>
 
