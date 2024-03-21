@@ -4,14 +4,14 @@
 <p align="center">Software Development Tech!</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nestjs,flutter,nextjs,react,vite,laravel,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=express,nestjs,flutter,nextjs,react,vite,tailwind"/>
   </a>
 </p>
 
 <p align="center">Database Technology!</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,prisma"/>
   </a>
 </p>
 
