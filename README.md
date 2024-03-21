@@ -4,7 +4,7 @@
 <p align="center">Software Development Tech!</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nestjs,flutter,nextjs,react,vite"/>
+    <img src="https://skillicons.dev/icons?i=express,nestjs,flutter,nextjs,react,vite,laravel,wordpress"/>
   </a>
 </p>
 
