@@ -21,5 +21,3 @@
     <img src="https://skillicons.dev/icons?i=windows,linux,git,aws,gcp,docker"/>
   </a>
 </p>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jMMADUs.visitor-badge)
