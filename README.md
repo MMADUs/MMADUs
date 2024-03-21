@@ -4,7 +4,7 @@
 <p align="center">Language im currently in!</p>
 <div align="center">(https://skillicons.dev/icons?i=html,css,js,ts,dart)](https://skillicons.dev)</div>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch)](https://skillicons.dev"/>
 
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,flutter,nextjs,react)](https://skillicons.dev)
 
