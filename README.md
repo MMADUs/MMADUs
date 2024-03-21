@@ -1,4 +1,4 @@
-<h1 align="center">Hi! you can call me MMADU or Nizwa!</h1>
+<h1 align="center">Welcome to my yard!</h1>
 <h3 align="center">Im young. But im dedicated interest on Mobile dev and Complex System Architecture</h3>
 <br>
 <p align="center">My Software Dev Tools</p>
