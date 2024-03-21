@@ -23,7 +23,6 @@
 </p>
 
 <br>
-<br>
 
 <h2 align="center">Profile Statistics</h2>
 <br>
