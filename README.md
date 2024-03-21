@@ -1,5 +1,5 @@
 <h1 align="center">Hi! you can call me MMADU or Nizwa!</h1>
-<h3 align="center">Im studying on my Computer Science major, and im a Junior Software Engineer</h3>
+<h3 align="center">Im young. But im dedicated interest on Mobile dev and Complex System Architecture</h3>
 <br>
 <p align="center">Software Development Tech!</p>
 <p align="center">
