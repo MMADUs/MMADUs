@@ -12,21 +12,21 @@
 
 <p align="center">My Software Dev Tools</p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,nextjs,react,vite,tailwind"/>
   </a>
 </p>
 
 <p align="center">My Database Technology</p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,prisma"/>
   </a>
 </p>
 
 <p align="center">Current Devops Tech</p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=windows,linux,git,github,aws,gcp,docker"/>
   </a>
 </p>
