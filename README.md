@@ -4,27 +4,27 @@
 <p align="center">Language im currently in!</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart)](https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart"/>
   </a>
 </p>
 
 <p align="center">Database Technology!</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch)](https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch"/>
   </a>
 </p>
 
 <p align="center">Software Development Tech!</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nestjs,flutter,nextjs,react)](https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=express,nestjs,flutter,nextjs,react"/>
   </a>
 </p>
 
 <p align="center">Current Devops Tech!</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,aws,gcp,docker)](https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=windows,linux,git,aws,gcp,docker"/>
   </a>
 </p>
