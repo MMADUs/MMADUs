@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my yard!</h1>
-<h3 align="center">Im young. But im dedicated interest on Mobile dev and Complex System Architecture</h3>
+<h3 align="center">Dedicated interest on Mobile dev and Complex System Architecture</h3>
 
 <div align=center>
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMADUs&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
