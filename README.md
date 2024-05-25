@@ -13,7 +13,7 @@
 <p align="center">My Software Dev Tools</p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,nextjs,react,vite,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,flutter,nextjs,react,vite,tailwind"/>
   </a>
 </p>
 
