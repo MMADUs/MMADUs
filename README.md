@@ -1,4 +1,4 @@
-<h3>Hello, you can call me Nizwa! 🤖👋</h3>
+<h3>Hello, you can call me Nizwa! 🤖👋 `IND/ENG`</h3>
 
 * I'm a Fullstack Developer, mainly focused on Backend Engineering.
 * Interested in Mobile apps, Distributed systems and Software architecture.
