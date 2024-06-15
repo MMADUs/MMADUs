@@ -1,4 +1,4 @@
-<h3 align=center>Hello, you can call me Nizwa</h3>
+<h3>Hello, you can call me Nizwa</h3>
 
 * Im a fullstack dev, mainly focused on backend engineering.
 * Interested in mobile dev, distribution systems and software architecture.
