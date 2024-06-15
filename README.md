@@ -1,6 +1,10 @@
-* Item 1
-* Item 2
-* Item 3
+<h1>Hello, you can call me Nizwa</h1>
+
+* Im a fullstack dev, mainly focused on backend engineering.
+* Interested in mobile dev, distribution systems and software architecture.
+* I mainly code for hobby and explorations.
+
+<br>
 
 <div align=center>
   <img width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMADUs&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
