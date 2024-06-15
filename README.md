@@ -3,7 +3,7 @@
 * I'm a Fullstack Developer, mainly focused on Backend Engineering.
 * Interested in Mobile apps, Distributed systems and Software architecture.
 * I use `.go` and `.js` for daily use.
-* I mainly code for hobby and explorations. `infokan gawe`
+* I mainly code for hobby and explorations.
 
 <br>
 
