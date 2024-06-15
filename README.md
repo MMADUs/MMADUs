@@ -1,6 +1,6 @@
 <h3>Hello, you can call me Nizwa! 🤖👋</h3> 
 
-`IND/ENG`
+`ID/EN`
 
 * I'm a Fullstack Developer, mainly focused on Backend Engineering.
 * Interested in Mobile apps, Distributed systems and Software architecture.
