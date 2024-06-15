@@ -9,7 +9,7 @@
 <p align="center">My Software Dev Tools</p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,go,flutter,nextjs,react,vite,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,go,mysql,postgres,mongodb,redis,elasticsearch"/>
   </a>
 </p>
 
