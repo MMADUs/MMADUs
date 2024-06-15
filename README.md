@@ -9,21 +9,7 @@
 <p align="center">My Software Dev Tools</p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,go,mysql,postgres,mongodb,redis,elasticsearch"/>
-  </a>
-</p>
-
-<p align="center">My Database Technology</p>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,prisma"/>
-  </a>
-</p>
-
-<p align="center">Current Devops Tech</p>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,github,aws,gcp,docker"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,nextjs,react,flutter,go,mysql,postgres,mongodb,redis,elasticsearch,docker"/>
   </a>
 </p>
 
