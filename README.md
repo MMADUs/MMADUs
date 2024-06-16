@@ -15,10 +15,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,nextjs,react,flutter,java,go,mysql,postgres,mongodb,redis,elasticsearch,cassandra,graphql,kafka,docker" style="width: 700px;"/>
-</p>
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=nodejs" style="width: 40px; height: 40px;" />
   <img src="https://skillicons.dev/icons?i=ts" style="width: 40px; height: 40px;" />
