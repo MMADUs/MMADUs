@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,flutter,java,go,mysql,postgres,mongodb,redis,elasticsearch,cassandra,graphql,kafka,docker" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,flutter,java,go,mysql,postgres,mongodb,redis,elasticsearch,cassandra,graphql,kafka,docker" style="width: 500px; height: 500px;"/>
 </p>
 
 
