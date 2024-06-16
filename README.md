@@ -4,9 +4,7 @@
 * Interested in Mobile apps, Distributed systems and Software architecture.
 * I use `.go` and `.js` for daily use.
 * I mainly code for hobby and explorations.
-
-<div style="border: none; border-top: 1px solid #ccc;" />
-
+---
 <div align=center>
   <img width="295" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMADUs&layout=compact&theme=dark&border_radius=2&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width="412" src="https://streak-stats.demolab.com/?user=MMADUs&count_private=true&theme=dark&border_radius=2" alt="streak stats" />
