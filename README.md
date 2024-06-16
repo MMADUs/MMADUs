@@ -21,6 +21,7 @@
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=nodejs" style="width: 40px; height: 40px;" />
+  <img src="https://skillicons.dev/icons?i=ts" style="width: 40px; height: 40px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" style="width: 40px; height: 40px;" />
   <img src="https://skillicons.dev/icons?i=react" style="width: 40px; height: 40px;" />
   <img src="https://skillicons.dev/icons?i=flutter" style="width: 40px; height: 40px;" />
