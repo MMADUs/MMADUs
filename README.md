@@ -13,8 +13,6 @@
 <!--   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MMADUs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
 </div>
 
-<br>
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=nodejs" style="width: 40px; height: 40px;" />
   <img src="https://skillicons.dev/icons?i=ts" style="width: 40px; height: 40px;" />
