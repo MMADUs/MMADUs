@@ -14,22 +14,22 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=nodejs" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=ts" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=react" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=flutter" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=java" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=go" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=redis" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=cassandra" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=graphql" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=kafka" style="width: 40px; height: 40px;" />
-  <img src="https://skillicons.dev/icons?i=docker" style="width: 40px; height: 40px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=ts" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=react" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=java" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=go" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=redis" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=cassandra" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=graphql" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=kafka" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=docker" style="width: 50px; height: 50px;" />
   <!-- Add more icons here as needed -->
 </div>
 
