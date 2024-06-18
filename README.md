@@ -1,7 +1,7 @@
 <h3>Hello, you can call me Nizwa! 🤖👋</h3> 
 
 * I'm a Fullstack Developer, mainly focused on Backend Engineering.
-* Interested in Mobile apps, Distributed systems and Software architecture.
+* Interested in Mobile apps, Blockchain, Distributed systems and Software architecture.
 * I use `.go` and `.js` for daily use.
 * I mainly code for hobby and explorations.
 ---
