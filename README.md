@@ -1,6 +1,4 @@
-![Masthead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/5bee6279260063.5cbe15ae71f4e.gif)
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5bee6279260063.5cbe15ae71f4e.gif" alt="Masthead" width="600"/>
+![Masthead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
 
 <h3>Hello, you can call me Nizwa! 🤖👋</h3> 
 
