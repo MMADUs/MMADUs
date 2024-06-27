@@ -1,6 +1,4 @@
-![Masthead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
-
-<img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Masthead" style="object-fit: cover;"/>
+![Masthead](https://cdnb.artstation.com/p/assets/images/images/009/446/135/original/charlie-m-space-test-gif.gif?1519055382)
 
 <h3>Hello, you can call me Nizwa! 🤖👋</h3> 
 
