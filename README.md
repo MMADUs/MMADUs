@@ -1,4 +1,4 @@
-![Masthead]([https://example.com/my-awesome-gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F79260063%2F4K-Digital-Network-Traffic-Concept-Loop&psig=AOvVaw2-bZRcvpri3oF2obWtChjk&ust=1719550715347000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjOg9__-oYDFQAAAAAdAAAAABBO))
+![Masthead](https://www.behance.net/gallery/79260063/4K-Digital-Network-Traffic-Concept-Loop)
 
 <h3>Hello, you can call me Nizwa! 🤖👋</h3> 
 
