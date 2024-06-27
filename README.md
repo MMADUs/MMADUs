@@ -4,7 +4,7 @@
 
 * I'm a Fullstack Developer, mainly focused on Backend Engineering.
 * Interested in Mobile apps, Blockchain, Distributed systems and Software architecture.
-* I use `.go` and `.js` for daily use.
+* I use `.js` for daily use, and the rest for enterprise level.
 * I mainly code for hobby and explorations.
 
 <br>
