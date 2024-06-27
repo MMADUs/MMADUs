@@ -29,6 +29,9 @@
   <img src="https://skillicons.dev/icons?i=cassandra" style="width: 47px; height: 47px;" />
   <img src="https://skillicons.dev/icons?i=graphql" style="width: 47px; height: 47px;" />
   <img src="https://skillicons.dev/icons?i=kafka" style="width: 47px; height: 47px;" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" style="width: 47px; height: 47px;" />
+  <img src="https://skillicons.dev/icons?i=prometheus" style="width: 47px; height: 47px;" />
+  <img src="https://skillicons.dev/icons?i=grafana" style="width: 47px; height: 47px;" />
   <img src="https://skillicons.dev/icons?i=docker" style="width: 47px; height: 47px;" />
   <!-- Add more icons here as needed -->
 </div>
