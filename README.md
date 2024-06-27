@@ -6,11 +6,11 @@
 * Interested in Mobile apps, Blockchain, Distributed systems and Software architecture.
 * I use `.go` and `.js` for daily use.
 * I mainly code for hobby and explorations.
----
+
 <div align=center>
-  <img width="295" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMADUs&layout=compact&theme=dark&border_radius=2&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="412" src="https://streak-stats.demolab.com/?user=MMADUs&count_private=true&theme=dark&border_radius=2" alt="streak stats" />
-<!--   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MMADUs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+  <img width="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMADUs&layout=compact&theme=dark&border_radius=2&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="370" src="https://streak-stats.demolab.com/?user=MMADUs&count_private=true&theme=dark&border_radius=2" alt="streak stats" />
+  <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=MMADUs&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=2" alt="readme stats" />
 </div>
 
 <br>
@@ -35,6 +35,5 @@
   <img src="https://skillicons.dev/icons?i=prometheus" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=grafana" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=docker" style="width: 38px; height: 38px;" />
-  <!-- Add more icons here as needed -->
 </div>
 
