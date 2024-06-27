@@ -12,10 +12,12 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=nodejs" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=ts" style="width: 38px; height: 38px;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=react" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=flutter" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=java" style="width: 38px; height: 38px;" />
+  <img src="https://skillicons.dev/icons?i=spring" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=go" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=mysql" style="width: 38px; height: 38px;" />
   <img src="https://skillicons.dev/icons?i=postgres" style="width: 38px; height: 38px;" />
