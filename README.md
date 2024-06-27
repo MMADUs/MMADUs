@@ -1,6 +1,6 @@
 ![Masthead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
 
-<img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Masthead" style="height: 200px; object-fit: cover;"/>
+<img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Masthead" style="object-fit: cover;"/>
 
 <h3>Hello, you can call me Nizwa! 🤖👋</h3> 
 
