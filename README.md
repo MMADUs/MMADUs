@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=java" style="width: 33px; height: 33px;" />
   <img src="https://skillicons.dev/icons?i=spring" style="width: 33px; height: 33px;" />
   <img src="https://skillicons.dev/icons?i=go" style="width: 33px; height: 33px;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" style="width: 33px; height: 33px;" />
   <img src="https://skillicons.dev/icons?i=mysql" style="width: 33px; height: 33px;" />
   <img src="https://skillicons.dev/icons?i=postgres" style="width: 33px; height: 33px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" style="width: 33px; height: 33px;" />
