@@ -7,7 +7,7 @@
 * I use `.js` for daily use, and the rest for enterprise level.
 * I mainly code for hobby and explorations.
 
-
+---
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=nodejs" style="width: 33px; height: 33px;" />
