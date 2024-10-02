@@ -1,4 +1,4 @@
-> hi, my name is `Nizwa` , i am interested into artificial intelligence, distributed system and technical architecture.
+> hi, my name is `Nizwa` , i am interested into artificial intelligence, distributed system, big data and technical architecture.
 ```rs
 let mut languages: Vec<&str> = vec!["Javascript", "Typescript", "Go", "Java", "Rust", "C/C++", "Python", "Others"];
 ```
