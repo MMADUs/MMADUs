@@ -1,5 +1,5 @@
 My name is `Muhammad Nizwa`, im actively studying in AI Research. <br>
-- Pursuing my career as either ML Engineer or Data Scientist.
+- I'm currently pursuing a career as an AI/ML Engineer or Data Scientist. 
 - Alternatively working with Distributed Systems.
 - I occasionally study Quantum Computing and Quantitative Finance out of curiosity.
 ```rs
