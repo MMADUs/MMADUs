@@ -3,6 +3,6 @@ My name is `Muhammad Nizwa`, im actively studying in AI Research. <br>
 - Alternatively working with Distributed Systems.
 - I occasionally study Quantum Computing and Quantitative Finance out of curiosity.
 ```rs
-let mut using_languages: Vec<&str> = vec![".ts", ".py", ".java", ".go", ".rs", ".cpp"];
+let mut using_languages: Vec<&str> = vec![".ts", ".py", ".java", ".go", ".rs", ".c", ".cpp", ".lua"];
 ```
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MMADUs.MMADUs" />
