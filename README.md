@@ -2,7 +2,7 @@
 
 I'm currently pursuing a career as an AI/ML Engineer or Data Scientist. 
 
-- Interested in AI/ML Research and Distributed Systems.
+- My focused Interest lies in AI/ML Research and Distributed Systems.
 - Learning Quantum Computing and Quantitative Finance out of curiosity.
 
 ```rs
