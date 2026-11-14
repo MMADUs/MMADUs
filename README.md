@@ -2,7 +2,7 @@
 
 I'm currently open to professional opportunities. Learn more about me on [my website](https://mnizwa.com).
 
-- My primary areas of interest are **AI/ML Research Engineering** and **Backend Dev (Distributed Systems)**.
+- My primary areas of interest are **AI/ML Research Engineering** and **Backend Development (Distributed Systems)**.
 - Exploring **Quantum Computing** and **Quantitative Finance** out of personal curiosity.
 
 ```rs
